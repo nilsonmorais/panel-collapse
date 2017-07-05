@@ -1,4 +1,10 @@
 # panel-collapse
+- Collapsable Bootstrap Panels 
+
+## install
+
+- `npm install thismodule`
+- import to your code and follow the html pattern.
 
 ## css
 ```
